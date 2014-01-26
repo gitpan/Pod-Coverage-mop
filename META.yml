@@ -15,7 +15,7 @@ name: Pod-Coverage-mop
 provides:
   Pod::Coverage::mop:
     file: lib/Pod/Coverage/mop.pm
-    version: 0.001
+    version: 0.002
 requires:
   Pod::Coverage::CountParents: 0
   mop: 0
@@ -23,4 +23,4 @@ requires:
 resources:
   license: http://dev.perl.org/licenses/
   repository: https://bitbucket.org/fgabolde/pod-coverage-mop
-version: 0.001
+version: 0.002

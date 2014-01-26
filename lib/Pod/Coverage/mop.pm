@@ -7,7 +7,7 @@ use Carp;
 
 use mop;
 
-our $VERSION = '0.001';
+our $VERSION = '0.002';
 
 class Pod::Coverage::mop
     extends Pod::Coverage::CountParents {
